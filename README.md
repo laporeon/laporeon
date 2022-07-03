@@ -1,4 +1,12 @@
-### Hey there! Welcome to my profile. 👋
+![sh](https://img.shields.io/static/v1?label=Overview&message=laporeon&color=1E90FF&style=for-the-badge&logo=GitHub) 
 
+🎓 I'm an Information Systems student.
 
-![laporeon's github stats](https://github-readme-stats.vercel.app/api?username=laporeon&show_icons=true&line_height=27&count_private=true&theme=algolia)
+👨‍💻 I'm currently learning Web Development focusing on backend.
+
+📚 Learning and improving my skills on: JavaScript, Node.js and TypeScript.
+<hr/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
