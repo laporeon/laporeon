@@ -4,7 +4,7 @@
 
 👨‍💻 I'm currently learning Web Development focusing on backend.
 
-📚 Learning and improving my skills on: JavaScript, Node.js and TypeScript.
+📚 Learning and improving my skills on: JavaScript and Node.js.
 <hr/>
 
 <!--START_SECTION:waka-->
