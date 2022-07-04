@@ -5,8 +5,4 @@
 👨‍💻 I'm currently studying Web Development focusing on backend.
 
 📚 Learning and improving my skills on: JavaScript and Node.js.
-<hr/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
