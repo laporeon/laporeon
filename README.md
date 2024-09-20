@@ -1,9 +1,8 @@
-```js
-import SoftwareDeveloper from "daspeon";
+I'm a Software Developer in the making, focusing on backend development. 
 
-class About extends SoftwareDeveloper {
-  role = "Backend Developer";
-  stack = ["JavaScript", "Node.js", "MongoDB", "MySQL", "PostgreSQL"];
-  interests = ["Java", "Spring", "C#", ".NET"];
-}
-```
+**Tech Stack**: JavaScript, Node.js, MongoDB, MySQL, PostgreSQL.
+
+**Interests**: Java, Spring.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daspeon&layout=compact&count_private=true&show_icons=true&theme=holi)
+
