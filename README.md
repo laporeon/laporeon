@@ -1,7 +1,11 @@
-![sh](https://img.shields.io/static/v1?label=Overview&message=daspeon&color=0066cc&style=for-the-badge&logo=github)
+```java
+System.out.println("Hi there! Welcome to my GitHub profile! 👋");
+```
+<hr>
 
-I'm a Software Developer in the making, focusing on backend development. 
+I'm an aspiring **backend developer**, currently diving deep into the **Java** ecosystem.
 
-**Tech Stack**: JavaScript, Node.js, MongoDB, MySQL, PostgreSQL.
+Before diving into Java, I dedicated my studies to learning **Node.js**, building multiple personal projects using vanilla **JavaScript** and **TypeScript**.
+<hr>
 
-**Interests**: Java, Spring.
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,mysql,postgresql,mongodb,docker,java&theme=light)](https://skillicons.dev)
